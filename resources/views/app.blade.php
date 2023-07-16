@@ -9,6 +9,6 @@
 <body>
 <div id="app"></div>
 @viteReactRefresh
-@vite(['resources/css/app.css', 'resources/ts/index.tsx'])
+@vite(['resources/scss/app.scss', 'resources/ts/index.tsx'])
 </body>
 </html>
